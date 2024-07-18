@@ -1,7 +1,4 @@
-# https://www.hackerrank.com/challenges/pacman-bfs
-
 import copy
-
 pacman_x, pacman_y = list(map(int, input().split()))
 food_x, food_y = list(map(int, input().split()))
 n, m = list(map(int, input().split()))
